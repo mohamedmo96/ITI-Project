@@ -1,0 +1,15 @@
+D:\Dot Net laps\Lap4\Lap4\bin\Debug\net7.0\Lap4.exe
+D:\Dot Net laps\Lap4\Lap4\bin\Debug\net7.0\Lap4.deps.json
+D:\Dot Net laps\Lap4\Lap4\bin\Debug\net7.0\Lap4.runtimeconfig.json
+D:\Dot Net laps\Lap4\Lap4\bin\Debug\net7.0\Lap4.dll
+D:\Dot Net laps\Lap4\Lap4\bin\Debug\net7.0\Lap4.pdb
+D:\Dot Net laps\Lap4\Lap4\obj\Debug\net7.0\Lap4.csproj.AssemblyReference.cache
+D:\Dot Net laps\Lap4\Lap4\obj\Debug\net7.0\Lap4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net laps\Lap4\Lap4\obj\Debug\net7.0\Lap4.AssemblyInfoInputs.cache
+D:\Dot Net laps\Lap4\Lap4\obj\Debug\net7.0\Lap4.AssemblyInfo.cs
+D:\Dot Net laps\Lap4\Lap4\obj\Debug\net7.0\Lap4.csproj.CoreCompileInputs.cache
+D:\Dot Net laps\Lap4\Lap4\obj\Debug\net7.0\Lap4.dll
+D:\Dot Net laps\Lap4\Lap4\obj\Debug\net7.0\refint\Lap4.dll
+D:\Dot Net laps\Lap4\Lap4\obj\Debug\net7.0\Lap4.pdb
+D:\Dot Net laps\Lap4\Lap4\obj\Debug\net7.0\Lap4.genruntimeconfig.cache
+D:\Dot Net laps\Lap4\Lap4\obj\Debug\net7.0\ref\Lap4.dll
